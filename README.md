@@ -7,8 +7,8 @@
 
 ## Other info:
 * chromedriver must be in PATH
-* Address - line 90
-* Number of pages to scrape - passed in line 100
+* start address (main page) - line 90
+* number of pages to scrape - passed in line 100
 
 ## Example output csv:
 |Company Name                    |Tags                                        |UEN       |Fintech Certified|Email                         |Website                              |Description                                                                                                                                                                 |
