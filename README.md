@@ -1,4 +1,4 @@
-# webscrape-sg-fintech-directory
+# webscrape-singapore-fintech-directory
 
 ## Libraries used:
 * bs4
