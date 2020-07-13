@@ -7,8 +7,8 @@
 
 ## Other info:
 * chromedriver must be in PATH
-* start address (main page) - line 90
-* number of pages to scrape - passed in line 100
+* start address (main page) - in main method
+* number of pages to scrape - passed to get_container_links method
 
 ## Example output csv:
 |Company Name                                                   |Tags                                                                      |UEN           |Fintech Certified|Biz. Model|No. Staff |Inc. Date         |Email                               |Website                                                 |Address                                                                                     |Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
