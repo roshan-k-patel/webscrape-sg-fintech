@@ -1,5 +1,8 @@
 # webscrape-singapore-fintech-directory
 
+## Authors:
+* Roshan Patel
+
 ## Libraries used:
 * bs4
 * urllib
